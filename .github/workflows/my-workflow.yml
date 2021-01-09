@@ -12,6 +12,6 @@ jobs:
     - name: hello-action
       uses: ./.github/actions/hello-world
       with:
-          first-greeting: "Learning Lab User"
-          second-greeting: "Ricky the Dicky"
+          # first-greeting: "Learning Lab User"
+          # second-greeting: "Ricky the Dicky"
           third-greeting: "Man of mystery"
